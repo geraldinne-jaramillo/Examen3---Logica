@@ -32,5 +32,12 @@ y el programa se encarga de calcular el total, aplicar descuentos y mostrar un r
 
 Gracias por ver. 😋
 
+🙂**Skill obtenidas después de este curso.**
+**°** Más razonamiento lógico.
+**°** Mejor comprensión de las estructuras de datos.
+**°** Uso de funciones y clases.
+**°** Mayor conocimiento en condicionales y ciclos.
+**°** Aprendí hacer excepciones.
+
 
 
